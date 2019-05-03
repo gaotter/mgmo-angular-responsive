@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
-import { MgmoResponsiveTableComponent } from './mgmo-responsive-table/mgmo-responsive-table.component';
+import { MgmoResponsiveTableComponent } from './responsive-table/responsive-table.component';
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule ],
