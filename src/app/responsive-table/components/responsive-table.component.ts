@@ -6,7 +6,7 @@ import { Component, OnInit, ViewEncapsulation } from '@angular/core';
   styleUrls: ['./responsive-table.component.scss'],
   encapsulation: ViewEncapsulation.ShadowDom
 })
-export class MgmoResponsiveTableComponent implements OnInit {
+export class ResponsiveTableComponent implements OnInit {
 
   constructor() { }
 
