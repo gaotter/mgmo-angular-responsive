@@ -56,7 +56,7 @@ td {
   flex:1;
 }
 
-@include responsive-limit(767px, 5);
+@include responsive-limit(767px, 5 (1,));
 
 @include responsive-limit(1024px, 7);
 

@@ -17,47 +17,47 @@ export class AppComponent {
         testd: [
           {
             show:false,
-            value:"sdwdw"
+            value:"v1 massetext"
           },
           {
             show:false,
-            value:"sdwdw"
+            value:"v2 massetext"
           },
           {
             show:false,
-            value:"sdwdw"
+            value:"v3 massetext"
           },
           {
             show:false,
-            value:"sdwdw"
+            value:"v4 massetext"
           },
           {
             show:false,
-            value:"sdwdw"
+            value:"v5 massetext"
           },
           {
             show:false,
-            value:"sdwdw"
+            value:"v6 massetext"
           },
           {
             show:false,
-            value:"sdwdw"
+            value:"v7 massetext"
           },
           {
             show:false,
-            value:"sdwdw"
+            value:"v8 massetext"
           },
           {
             show:false,
-            value:"sdwdw"
+            value:"v9 massetext"
           },
           {
             show:false,
-            value:"sdwdw"
+            value:"v10 massetext"
           },
           {
             show:false,
-            value:"sdwdw"
+            value:"v12 massetext"
           }
           ],
           
